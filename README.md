@@ -1,4 +1,4 @@
-# Realtime Data Processing Pipeline using Spark NLP and Kafka
+# Realtime Data Processing Pipeline using SparkNLP Spark-Streaming and Kafka
 
 ## Project Overview
 This project implements a real-time data processing pipeline using **Apache Spark**, **Kafka**, and **Spark NLP**. The pipeline ingests streaming data from Kafka, processes it using NLP techniques to extract meaningful insights, and stores the cleaned data in **Parquet** format for further analysis.
